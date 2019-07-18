@@ -9,6 +9,8 @@ Offered by [deeplearning.ai](https://www.deeplearning.ai/)
 
 Notes include the important points from lectures, quizzes, and assignments, not including any answers. 
 
+(Some formulars cannot be shown in github. One can download the repo and check out the corresponding html files)
+
 ### Course 1: Neural Networks and Deep Learning
 
 - Week 1: [Introduction to Deep Learning](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week1_Introduction/Notes.ipynb)
