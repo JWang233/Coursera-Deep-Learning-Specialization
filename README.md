@@ -22,4 +22,13 @@ Notes include the important points from lectures, quizzes, and assignments, not 
 - Week 4: [Deep Neural Networks](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week4_Deep-Neural-Networks/Notes.ipynb)
 
 
+### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+- Week 1: [Practical Aspects of Deep Learning](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week1_Practical-Aspects-of-Deep-Learning/Notes.ipynb)
+
+- Week 2: [Optimization Algorithms](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week2_Optimization-Algorithms/Notes.ipynb)
+
+- Week 3: [Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week3_Hyperparameter-Tuning-Batch-Normalization-ProgrammingFrame/Notes.ipynb)
+
+
 
