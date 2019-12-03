@@ -13,22 +13,22 @@ Notes include the important points from lectures, quizzes, and assignments, not 
 
 ### Course 1: Neural Networks and Deep Learning
 
-- Week 1: [Introduction to Deep Learning](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week1_Introduction/Notes.ipynb)
+- Week 1: [Introduction to Deep Learning](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week1_Introduction/Notes.ipynb)
 
-- Week 2: [Neural Networks Basics](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Basics-of-Neural-Network-Programming/Notes.ipynb)
+- Week 2: [Neural Networks Basics](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Basics-of-Neural-Network-Programming/Notes.ipynb)
 
-- Week 3: [Shallow Neural Network](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week3_One-Hidden-Layer-Neural-Network/Notes.ipynb)
+- Week 3: [Shallow Neural Network](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week3_One-Hidden-Layer-Neural-Network/Notes.ipynb)
 
-- Week 4: [Deep Neural Networks](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week4_Deep-Neural-Networks/Notes.ipynb)
+- Week 4: [Deep Neural Networks](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week4_Deep-Neural-Networks/Notes.ipynb)
 
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-- Week 1: [Practical Aspects of Deep Learning](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week1_Practical-Aspects-of-Deep-Learning/Notes.ipynb)
+- Week 1: [Practical Aspects of Deep Learning](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week1_Practical-Aspects-of-Deep-Learning/Notes.ipynb)
 
-- Week 2: [Optimization Algorithms](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week2_Optimization-Algorithms/Notes.ipynb)
+- Week 2: [Optimization Algorithms](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week2_Optimization-Algorithms/Notes.ipynb)
 
-- Week 3: [Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://github.com/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week3_Hyperparameter-Tuning-Batch-Normalization-ProgrammingFrame/Notes.ipynb)
+- Week 3: [Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week3_Hyperparameter-Tuning-Batch-Normalization-ProgrammingFrame/Notes.ipynb)
 
 
 
