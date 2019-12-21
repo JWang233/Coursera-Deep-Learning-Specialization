@@ -31,4 +31,10 @@ Notes include the important points from lectures, quizzes, and assignments, not 
 - Week 3: [Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course2_ImprovingDNN-Hyperparameters-Tuning-Regularization-Optimazition/Week3_Hyperparameter-Tuning-Batch-Normalization-ProgrammingFrame/Notes.ipynb)
 
 
+### Course 3: Structuring Machine Learning Projects
+
+- Week 1: [Machine Learning Strategy (1)](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course3_Structuring-Machine-Learning-Projects/Week1_ML-Stratefy1/Notes.ipynb)
+
+- Week 2: [Machine Learning Strategy (2)](https://nbviewer.jupyter.org/github/JWang233/Coursera-Deep-Learning-Specialization/blob/master/Course3_Structuring-Machine-Learning-Projects/Week2_ML-Stratefy2/Notes.ipynb)
+
 
